@@ -1,3 +1,2 @@
-# asteroids
+# ![Asteroids Logo](./Asteroids_logo.png)
 
-My first game created via Python using pygame.
