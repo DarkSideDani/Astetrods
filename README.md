@@ -1,4 +1,4 @@
-# Asteroids Game
+# Astetrods Game
 
 <img src="./Asteroids_logo.png" alt="Asteroids Logo" width="300"/>
 
